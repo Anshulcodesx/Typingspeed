@@ -1,3 +1,11 @@
+'''
+ *
+ * Author : - Kavya Puri<imanpalsingh@gmail.com>
+ * Description : -  Typing speed calculator
+ * Technology stack :- pygame
+ 
+'''
+
 import pygame
 from pygame.locals import *
 import sys
