@@ -1,6 +1,6 @@
 '''
  *
- * Author : - Kavya Puri<imanpalsingh@gmail.com>
+ * Author : - Kavya Puri<kavyapuri1004@gmail.com>
  * Description : -  Typing speed calculator
  * Technology stack :- pygame
  
